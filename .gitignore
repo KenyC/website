@@ -1,6 +1,7 @@
 _cache/
 _site/
 update-site
+stack.yaml.lock
 dist
 dist-*
 cabal-dev
