@@ -1,3 +1,6 @@
+_cache/
+_site/
+update-site
 dist
 dist-*
 cabal-dev
